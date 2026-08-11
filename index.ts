@@ -14,5 +14,8 @@ const mensaje: string = systemName + "  v" + version + "¡Bienvenido, " + userNa
 console.log(mensaje);
 
 
+// Comentario: cuando ejecuto ts-node index.ts para verificar si mi codigo funciona, me sale error, creo que el error es en la compatibilidad de la versión de TypeScript y Node
+
+
 // 🚫 No eliminar las líneas de abajo ⬇️
 rl.close();
